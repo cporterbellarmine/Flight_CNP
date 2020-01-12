@@ -1,0 +1,6 @@
+C:\Users\cporter\source\repos\Flight_CNP\Flight_CNP\bin\Debug\Flight_CNP.exe.config
+C:\Users\cporter\source\repos\Flight_CNP\Flight_CNP\bin\Debug\Flight_CNP.exe
+C:\Users\cporter\source\repos\Flight_CNP\Flight_CNP\bin\Debug\Flight_CNP.pdb
+C:\Users\cporter\source\repos\Flight_CNP\Flight_CNP\obj\Debug\Flight_CNP.csprojAssemblyReference.cache
+C:\Users\cporter\source\repos\Flight_CNP\Flight_CNP\obj\Debug\Flight_CNP.exe
+C:\Users\cporter\source\repos\Flight_CNP\Flight_CNP\obj\Debug\Flight_CNP.pdb
